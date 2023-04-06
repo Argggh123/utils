@@ -6,6 +6,5 @@ func Contains(stringSlice []string, stringToFind string) bool {
 			return true
 		}
 	}
-
 	return false
 }
